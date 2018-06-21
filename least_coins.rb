@@ -3,8 +3,8 @@
 def least_coins(cents)
   coins = {:pennies => 1, :nickels => 5, :dimes => 10, :quarters => 25}
 
-    if cents < 5
-    elsif
+    if cents < 5 , puts pennies
+    elsif cents 
     elsif
     else
 
