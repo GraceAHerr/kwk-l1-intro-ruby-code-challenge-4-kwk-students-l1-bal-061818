@@ -1,7 +1,7 @@
 #write out your code here
 
 def least_coins(cents)
-  coins = {:pennies => 0.01, :nickels => 0.05, :dimes => 0.10, :quarters => 0.25}
+  coins = {:pennies => 1, :nickels => 5, :dimes => 10, :quarters => 25}
   loop do
     puts pennies = 0
     puts nickels = 0
