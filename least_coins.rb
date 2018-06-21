@@ -10,9 +10,8 @@ def least_coins(cents)
       puts nickels
     else < 5
       puts pennies
-    end
   end
-end 
+end
 
 
 
