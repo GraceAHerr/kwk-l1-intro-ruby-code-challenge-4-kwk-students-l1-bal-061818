@@ -10,7 +10,6 @@ def least_coins(cents)
       puts dimes
     else
       puts quarters
-  break
   end
 end
 
