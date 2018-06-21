@@ -8,7 +8,7 @@ def least_coins(cents)
       puts nickels
     elsif cents == 10
       puts dimes
-    else
+    else == 25
       puts quarters
   end
 end
